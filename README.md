@@ -22,7 +22,7 @@ git init
 git add .
 git commit -m "Crear analizador de mangos con IA"
 git branch -M main
-git remote add origin https://github.com/TU_USUARIO/mango-vision.git
+git remote add origin https://github.com/enrique200418/SEMANA-5-PERAS
 git push -u origin main
 ```
 
